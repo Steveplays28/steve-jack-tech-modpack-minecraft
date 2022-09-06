@@ -1,0 +1,16 @@
+name = "Test modpack"
+author = "Steveplays28, Soundless"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "89fbe27315e037ced406a1d4ab2df72ce127f6d5234421ffb0c1a5a111ab201a"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.5-beta.1"
+
+[options]
+acceptable-game-versions = ["1.18, 1.18.2"]

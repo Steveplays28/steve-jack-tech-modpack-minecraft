@@ -1,0 +1,13 @@
+name = "Quick Paths"
+filename = "quickpaths-fabric_1.18.2-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IPbFTPzw/versions/f32rvJ0R/quickpaths-fabric_1.18.2-2.3.jar"
+hash-format = "sha1"
+hash = "61c203ddf0a3bb391327c723d08a4df18e4b2c6e"
+
+[update]
+[update.modrinth]
+mod-id = "IPbFTPzw"
+version = "f32rvJ0R"

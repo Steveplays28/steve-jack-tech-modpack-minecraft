@@ -1,0 +1,13 @@
+name = "Reload Audio Driver (RAD) [Fabric]"
+filename = "reloadAudioDriver-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b16e0f4d86af2d5cb7cde9d0019a84fa1d9a5f0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3538150
+project-id = 391502

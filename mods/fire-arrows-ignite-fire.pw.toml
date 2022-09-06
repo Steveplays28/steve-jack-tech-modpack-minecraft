@@ -1,0 +1,13 @@
+name = " Fire arrows ignite fire"
+filename = "flamearrows-1.18.2-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/GR8s26Az/flamearrows-1.18.2-3.jar"
+hash-format = "sha1"
+hash = "9c777eeb6a19e0b354ca660f7286bed2c0267816"
+
+[update]
+[update.modrinth]
+mod-id = "NoajjpZQ"
+version = "GR8s26Az"

@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-fabric_1.18.2-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c85whkNB/versions/YvEu7NGh/cyclepaintings-fabric_1.18.2-2.5.jar"
+hash-format = "sha1"
+hash = "184c91dcf441e8a3c9bf42bcacb7b39454243727"
+
+[update]
+[update.modrinth]
+mod-id = "c85whkNB"
+version = "YvEu7NGh"

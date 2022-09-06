@@ -1,0 +1,13 @@
+name = "Maintenance Mode"
+filename = "mmode-fabric-1.18.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QOkEkSap/versions/1.0.1f/mmode-fabric-1.18.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b3b76fa4983c595a190e3b2bda018680d98b777e"
+
+[update]
+[update.modrinth]
+mod-id = "QOkEkSap"
+version = "NlH83enb"

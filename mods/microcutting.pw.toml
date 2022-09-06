@@ -1,0 +1,13 @@
+name = "MicroCutting"
+filename = "microcutting-1.18.2-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8B77TpQR/versions/1.18.2-1.2.2/microcutting-1.18.2-1.2.2.jar"
+hash-format = "sha1"
+hash = "4820d323b96d0e1522becd7dacfac1b47c00612d"
+
+[update]
+[update.modrinth]
+mod-id = "8B77TpQR"
+version = "uETpKtCo"

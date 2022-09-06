@@ -1,0 +1,13 @@
+name = "Realistic Sleep"
+filename = "RealisticSleep-1.4+1.18.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/1.4/RealisticSleep-1.4%2B1.18.2-fabric.jar"
+hash-format = "sha1"
+hash = "2bd8104f82ef2dedee833f8a0aa6db0d3d68d8b6"
+
+[update]
+[update.modrinth]
+mod-id = "ZPywkPEo"
+version = "wCqPTLPZ"
