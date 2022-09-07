@@ -521,6 +521,11 @@ hash = "229b09f29d225f71b95737207af93f77e1fde9a19aa8fafc22bc9dc652ed1d13"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
@@ -838,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "2f0c572009dc2fdc56b89100aef9b1ae6e754708bc64e33f326bbd3a80162acb"
+metafile = true
+
+[[files]]
+file = "mods/trees-do-not-float.pw.toml"
+hash = "90be450c6b7b466789955677003dd600830d27edc19e00a76b7a4b6162275b76"
 metafile = true
 
 [[files]]

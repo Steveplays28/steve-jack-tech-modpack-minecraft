@@ -1,0 +1,13 @@
+name = "Trees Do Not Float"
+filename = "tdnf-fabric-mc118-3.0.178.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28586a7425923ad15408a23af592690521e7527e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3817215
+project-id = 323354
