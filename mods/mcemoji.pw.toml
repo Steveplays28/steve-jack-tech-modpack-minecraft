@@ -1,0 +1,13 @@
+name = "Emoji Mod"
+filename = "mcemojis-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mq7PI8N9/versions/1.5.1/mcemojis-1.5.1.jar"
+hash-format = "sha1"
+hash = "962726379ed75a0650712f3252f3f7757fa46978"
+
+[update]
+[update.modrinth]
+mod-id = "Mq7PI8N9"
+version = "HJUIIeT9"

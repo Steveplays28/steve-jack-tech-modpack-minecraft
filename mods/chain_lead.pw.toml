@@ -1,0 +1,13 @@
+name = "Chain Lead"
+filename = "chain-lead-v0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DVGLrS53/versions/1/chain-lead-v0.1.2.jar"
+hash-format = "sha1"
+hash = "133a78906c8e4c08f125c577c2d774f9688a9524"
+
+[update]
+[update.modrinth]
+mod-id = "DVGLrS53"
+version = "C5GRxvGd"

@@ -1,0 +1,13 @@
+name = "InvMove"
+filename = "InvMove-1.18-0.8.1-Quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.1-quilt/InvMove-1.18-0.8.1-Quilt.jar"
+hash-format = "sha1"
+hash = "75c3c03fa540938ab2ddfad1f3445ed572502c15"
+
+[update]
+[update.modrinth]
+mod-id = "REfW2AEX"
+version = "DjMssqvc"
