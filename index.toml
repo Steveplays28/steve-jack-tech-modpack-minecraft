@@ -29,6 +29,10 @@ file = "config/c2me.toml"
 hash = "b2b638039b318dfdd5339e1af8e14ddd34e5431b676f70bb5d69265d4564ee95"
 
 [[files]]
+file = "config/immersive_weathering.json5"
+hash = "78feafc90e9cf88686dfb34ee0ec3bbe3e0ae47ebcf9ec06b17c1b5092ff91e2"
+
+[[files]]
 file = "config/interactic.json5"
 hash = "269aa9a11cc2af687b2031d7b013367370c098e47799631d8600187e75f2101b"
 
@@ -43,6 +47,10 @@ hash = "1c00d21b7c00444c64d244581244b2121fb025412c539245c47eee3ed61efd14"
 [[files]]
 file = "config/moreculling.toml"
 hash = "b0f0c4c073a628a37febd3cb37cd693fae325fdfe9179c65329b4f48318130f7"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "66f5687242932288506d9918f6eb8870f7774cc89ad5d97489f14856ca92db19"
 
 [[files]]
 file = "config/origins_server.toml"
@@ -91,6 +99,10 @@ hash = "ad7a02ffec9fae981b78a2eb1599ac75abdb65692f84ce14236888b7f8dfb4f3"
 [[files]]
 file = "config/waveycapes.json"
 hash = "d0e13725306f105aa861710b1fbe7e5a9d4f6faeb725eb764c23eff005acf116"
+
+[[files]]
+file = "config/waystones/config.json"
+hash = "c12d5ce78c74f0f9f153030e8b7af16342fdc4a791bbb59d4c0e9003efbb91cd"
 
 [[files]]
 file = "config/yigd.toml"
@@ -269,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/colorize.pw.toml"
 hash = "a534d575195b20db10430f7fe6fb374a62c31016a5d9873f9c15e7b58da80505"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "67ddc2eb1c7db8fd3fb89ab0999fc663a22a7190ed4e800a086910d169069f66"
 metafile = true
 
 [[files]]
@@ -704,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "218355c8a7433aa9763d0ab3a17bf3e2afdd54b30c44322b76021a98b0ef929e"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause-fabric.pw.toml"
+hash = "bceb1c7224ef9fc9534826bafaeab1364cd43c7b90bdde5ce527170298cc6b60"
 metafile = true
 
 [[files]]
