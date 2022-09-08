@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "92a4f38c23f671a2207babc60450f9ff54acbf07a5d1876ef5aad756e1b29583"
+
+[[files]]
+file = "config/blur.json"
+hash = "0153284894cbe323a10492c5049d4cb89a3ad90c430f7daf47699b9c01321322"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "b2b638039b318dfdd5339e1af8e14ddd34e5431b676f70bb5d69265d4564ee95"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "5e735d8a86161842f56781501d6efb3f3b42eab3205629838c0fa08b54092d1d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1b26113f98cae500b845a5be89d531c707ce2c56d1b260ed8e8ad1baa080f403"
 metafile = true
@@ -78,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "a9b8d0b5f77e2a91ee392f464a6475bc5f28c9494a48372797d1fe16d92ef6ea"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "0c9551aca194ec1c182e649f38b928405b0a6441f8cc0bffe63fd448c057f7d8"
 metafile = true
 
 [[files]]
@@ -261,6 +286,11 @@ hash = "5368a4f6e130e50ff93f21d0c651ffb410231009a94fbb8798ba4508a704cbc8"
 metafile = true
 
 [[files]]
+file = "mods/double-tap-dash.pw.toml"
+hash = "d983517dc35d413251a718f2e86e5692a3ebe7937415176beab74d6dd1dc6140"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "5ea6ee7623b7eacaeb8b642acae3cb812e0cf64d9c659d6bad8cb48e5d77cafb"
 metafile = true
@@ -383,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/fires-survival-tweaks.pw.toml"
 hash = "335b15743e6a931cc12fdcba30472a322b667b46e4a7de6013f461593e8239f2"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "88621af32c04014ec3296102eeaa90128606ddeab3021e75569ee70a8165d6a2"
 metafile = true
 
 [[files]]
@@ -658,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7abb7ec5fd49525a7a3582231085cb429799cf840296a26a2666614bf0968bd2"
 metafile = true
 
 [[files]]
