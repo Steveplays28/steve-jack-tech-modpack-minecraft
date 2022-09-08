@@ -196,6 +196,11 @@ hash = "1379dd9db2ce9cc4d20339d966d37e1c86d0f8812353a29bcfe8be19258b9edb"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "60906ae763074f3a483983e31fc771f69181315740579d69e39f961f1aea4731"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "ec083ae7dc4dd9625b1ce84aa163f6d9314298b83df2ec1ffcaec522d80b3d75"
 metafile = true
@@ -291,6 +296,11 @@ hash = "be37d8f2c3692fe9414b45b10271fedcf9edf9599eadeebc25861b298e0e5f1f"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "41383163bd4bc98324a18d2b582c2957e8bb5eb49ee316934f8a26d0258c3bc2"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-searchability.pw.toml"
 hash = "26c7afcf3761bafb205f3059ed92d1be689d67caf3b0ab0e9ddbb577a219ac6a"
 metafile = true
@@ -357,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "19da6383204cedc034e15c902363ea1c3c5bd89cf03a6bdc5f62e69f813e36b5"
+hash = "b1dd26068945a52c7989b2515cac0b51a14d25fedbf5c858e4c4d689fc38b2e5"
 metafile = true
 
 [[files]]
@@ -461,6 +471,11 @@ hash = "eec174f63af5bae8eba9a4357bd2bfa7432afb1e9faa21ae8839aacccc36cf32"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
+metafile = true
+
+[[files]]
 file = "mods/interactic.pw.toml"
 hash = "e44b74c440a66bbb0f429d8439a4395885a68f7f31f29ccfc103a520587b0702"
 metafile = true
@@ -526,8 +541,18 @@ hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
 metafile = true
 
 [[files]]
+file = "mods/letsleepingdogslie.pw.toml"
+hash = "fcee1523316882869bb858261ee59529871e37905fafd3dab4111994cbf165d5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "c038a6ea641541af0aee754c41df71ccb662245863cecb43d64c202baf561291"
 metafile = true
 
 [[files]]
@@ -538,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "cc5cbb9430eea35ef7c057f811ce47e7b8da276689ec5783e0f234bc295e289d"
-metafile = true
-
-[[files]]
-file = "mods/mcemoji.pw.toml"
-hash = "fd311acd6da51673f79c2d2ca66d862be3735b9c724250242cc233d6c086bbdb"
 metafile = true
 
 [[files]]
@@ -611,6 +631,11 @@ hash = "7da5e723aff5959786f000b14a2673b37f66fbc3c87379681ed3a0fc7b6b1729"
 metafile = true
 
 [[files]]
+file = "mods/ordinarytweaks.pw.toml"
+hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "8639aa86ac96b56ec96b5eee3103f8de7462708387ff288a9b69149fdeaafab8"
 metafile = true
@@ -638,6 +663,16 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "0cb8d95f47ad4c1b470d9429cc86d37774d90034c8b76310bcbed7a5af3994b4"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "f9395e59a5a650e888ebaa91531317f2e523a0c7f3fc8d24dcf5bfa0ac3cf4a7"
 metafile = true
 
 [[files]]
@@ -741,6 +776,11 @@ hash = "3b60691fe0aae2c8a323b506ce353894f055d666a88ff8e32ad25e2b2c3dff03"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "de1fe2197b7b421b22ef269f68a5c9c1787b98d7c60580b1504298fcbb3ac177"
+metafile = true
+
+[[files]]
 file = "mods/simple-cobblestone-generator.pw.toml"
 hash = "2c415728af772a8b4aa27a38544ae788a3fe971d8dbdf69d3941467e78701809"
 metafile = true
@@ -836,6 +876,11 @@ hash = "1c6f2ef8ab6f44540f382efce0fb617a619c942292da240444519e7ec5a7cb66"
 metafile = true
 
 [[files]]
+file = "mods/title-scrolls.pw.toml"
+hash = "73feb350dc3af12466907b27f05e175e32bc2ec4d6ec45256559086c37c863d3"
+metafile = true
+
+[[files]]
 file = "mods/too-many-binds.pw.toml"
 hash = "9e300122d6fd6aab78a5669841ccf50ccaf17274ca2b690b3aa9b78de05edfbb"
 metafile = true
@@ -858,6 +903,16 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "7707e35d0bf49e11a3a4cf3a3039bf33c1a839178b9bd50f1366fff07726ef15"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "ad45bc812916742f3ab6950f6bcec24c4834a36ac814c9f4b0d801fb1ae7f36c"
+metafile = true
+
+[[files]]
+file = "mods/villagers-follow-emeralds-fabric.pw.toml"
+hash = "a2ebfbc1f8b39690986cb0b4942fc9d6d6ae8a630812b3189ec1c2d1df0a12bb"
 metafile = true
 
 [[files]]
@@ -888,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "7f1232dbae4628b3675e1476d7be4c7d61a8996ce97a136859bbb1cf3b721ab5"
+metafile = true
+
+[[files]]
+file = "mods/wmch.pw.toml"
+hash = "afb8bef63193b0499c4f5b99d9c8e47708d7836be108820afb558cc7addd129f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Let Sleeping Dogs Lie - Fabric"
+filename = "LetSleepingDogsLie-1.18.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DpyXb96r/versions/1.0.1/LetSleepingDogsLie-1.18.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "06f9ce5e98255abaaecf0ac2402bdef34ec507d9"
+
+[update]
+[update.modrinth]
+mod-id = "DpyXb96r"
+version = "So9uYxrJ"

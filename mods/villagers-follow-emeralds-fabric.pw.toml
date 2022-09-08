@@ -1,0 +1,13 @@
+name = "Villagers-Follow-Emeralds-Fabric"
+filename = "villagers-follow-emeralds-1.2.0 1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lH4RabB7/versions/1.2.0/villagers-follow-emeralds-1.2.0%201.18.jar"
+hash-format = "sha1"
+hash = "f5fdce2c25f5835be3d2232ffe6dedfb9b103f6c"
+
+[update]
+[update.modrinth]
+mod-id = "lH4RabB7"
+version = "ShyWwBq3"
