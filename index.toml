@@ -85,8 +85,12 @@ file = "config/wake-up-time.json"
 hash = "b312aa112652a7e9de3523c9885c196275917013e3ce1f2a6e14d5a9de4194d8"
 
 [[files]]
+file = "config/waterdripsound.json"
+hash = "ad7a02ffec9fae981b78a2eb1599ac75abdb65692f84ce14236888b7f8dfb4f3"
+
+[[files]]
 file = "config/waveycapes.json"
-hash = "cd249facd7bf603e2ac74bfd1e97d0a0a024d56c6f60ce65208adb7cdf2e916a"
+hash = "d0e13725306f105aa861710b1fbe7e5a9d4f6faeb725eb764c23eff005acf116"
 
 [[files]]
 file = "config/yigd.toml"
