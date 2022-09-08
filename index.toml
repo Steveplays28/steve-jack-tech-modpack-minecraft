@@ -5,12 +5,48 @@ file = "config/appleskin.json5"
 hash = "92a4f38c23f671a2207babc60450f9ff54acbf07a5d1876ef5aad756e1b29583"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "632402b27d672bec52e60e32c56007b152c3eccd4aba85dbd6d40d6a78c7612d"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "8c81b10722bf0c981baa9d695cb56556d98bbe768d820f6ea452d5a8958c5ec5"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "8f3f13cafcc4b8113028465c199303f2bb438ef3054b7a9221e6e3f608c41dc7"
+
+[[files]]
 file = "config/blur.json"
 hash = "0153284894cbe323a10492c5049d4cb89a3ad90c430f7daf47699b9c01321322"
 
 [[files]]
+file = "config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "b2b638039b318dfdd5339e1af8e14ddd34e5431b676f70bb5d69265d4564ee95"
+
+[[files]]
+file = "config/interactic.json5"
+hash = "269aa9a11cc2af687b2031d7b013367370c098e47799631d8600187e75f2101b"
+
+[[files]]
+file = "config/inventory_tabs.json"
+hash = "7b93fe75c3e76813ef6f7654aadc5c308f699af40dc164dd5e628e1393434b0b"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "1c00d21b7c00444c64d244581244b2121fb025412c539245c47eee3ed61efd14"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "b0f0c4c073a628a37febd3cb37cd693fae325fdfe9179c65329b4f48318130f7"
+
+[[files]]
+file = "config/origins_server.toml"
+hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -19,6 +55,42 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "5e735d8a86161842f56781501d6efb3f3b42eab3205629838c0fa08b54092d1d"
+
+[[files]]
+file = "config/realisticsleep.json"
+hash = "be9d7a45f63800e3bb5b1a0b6ccfd2f2af473c1f856993d62af3970bd4db2a15"
+
+[[files]]
+file = "config/seamless_loading_screen.json"
+hash = "ee0393dc2d4e6c540a52671ddd2d0c6998fafedc1c81106046af735a849f1b0e"
+
+[[files]]
+file = "config/sodium-shadowy-path-blocks-options.json"
+hash = "20cd9da6e3c7605a103e7f03ca30673d8999c85b41f11ee768e6c944bed8e745"
+
+[[files]]
+file = "config/toomanybinds.json5"
+hash = "7efa7446a4ac5281771a99543e6089b331d18c70d7822ec46455f9f67fe34ab5"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "b1dbcd57c0e6c5418506e1a344e181bc0340ea40f9e0312804ad470c2d5d772e"
+
+[[files]]
+file = "config/wake-up-time.json"
+hash = "b312aa112652a7e9de3523c9885c196275917013e3ce1f2a6e14d5a9de4194d8"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "cd249facd7bf603e2ac74bfd1e97d0a0a024d56c6f60ce65208adb7cdf2e916a"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "75cf00c0b0c9207c5a0cdffc5ab07787b384eccc55bd029f1353ff4ee1af5205"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -286,6 +358,11 @@ hash = "5368a4f6e130e50ff93f21d0c651ffb410231009a94fbb8798ba4508a704cbc8"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "ee47b16c2cf8e52030e9ab9828cd640b333b256ceaaf1199b8666ba552bff675"
+metafile = true
+
+[[files]]
 file = "mods/double-tap-dash.pw.toml"
 hash = "d983517dc35d413251a718f2e86e5692a3ebe7937415176beab74d6dd1dc6140"
 metafile = true
@@ -321,13 +398,18 @@ hash = "be37d8f2c3692fe9414b45b10271fedcf9edf9599eadeebc25861b298e0e5f1f"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot-fabric.pw.toml"
+hash = "2aa9c88983a5c738fed28b83f6328a2db794b6a700a100af879ba7730799f9ab"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "41383163bd4bc98324a18d2b582c2957e8bb5eb49ee316934f8a26d0258c3bc2"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-searchability.pw.toml"
-hash = "26c7afcf3761bafb205f3059ed92d1be689d67caf3b0ab0e9ddbb577a219ac6a"
+hash = "8da1d4fb5386ff9244638a55d06d7e44408c003092aecf70967f622298724ccc"
 metafile = true
 
 [[files]]
@@ -571,11 +653,6 @@ hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
 metafile = true
 
 [[files]]
-file = "mods/letsleepingdogslie.pw.toml"
-hash = "fcee1523316882869bb858261ee59529871e37905fafd3dab4111994cbf165d5"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
@@ -646,11 +723,6 @@ hash = "11d7d7dac686582ef0fd37ff3fb19334c3c39625c2f7d8050e5133b492136453"
 metafile = true
 
 [[files]]
-file = "mods/nochatlag.pw.toml"
-hash = "e1fa1d732662d24dffd917b4d5aabee6368f3a243d7e7c4ec9795d5903743d0c"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "b92ef307ec9cbafb8502d768382dfb4cb3252f1d680628518c4ad22a03962b9f"
 metafile = true
@@ -668,11 +740,6 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "8639aa86ac96b56ec96b5eee3103f8de7462708387ff288a9b69149fdeaafab8"
-metafile = true
-
-[[files]]
-file = "mods/ost-overhaul.pw.toml"
-hash = "a6fd3bdf0775ae53b82a42e98d4aa332cbb7300b597d389e9ba83fd4a016207e"
 metafile = true
 
 [[files]]
@@ -932,17 +999,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "1d5aa98aff5c7f9d5c0b3736a624c8f28f9aa5164aa658c409be19449feb4c45"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "7707e35d0bf49e11a3a4cf3a3039bf33c1a839178b9bd50f1366fff07726ef15"
-metafile = true
-
-[[files]]
-file = "mods/villager-names.pw.toml"
-hash = "ad45bc812916742f3ab6950f6bcec24c4834a36ac814c9f4b0d801fb1ae7f36c"
 metafile = true
 
 [[files]]
