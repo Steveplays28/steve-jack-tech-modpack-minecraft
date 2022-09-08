@@ -192,11 +192,6 @@ hash = "82069fe3e0f16de1bc38ed894fbf7ba715ecf52c5459ceec058f284c25f85251"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "47b2e84c94f1db8b6e60ba21241389dfca99f0a4f08e5faa8868875886fd25d2"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "81bc9dbcf428ebe485fcb3d2194b174a881b6de56b11fb0af9fbdd3f35450204"
 metafile = true
@@ -879,11 +874,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "3b60691fe0aae2c8a323b506ce353894f055d666a88ff8e32ad25e2b2c3dff03"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "de1fe2197b7b421b22ef269f68a5c9c1787b98d7c60580b1504298fcbb3ac177"
 metafile = true
 
 [[files]]
