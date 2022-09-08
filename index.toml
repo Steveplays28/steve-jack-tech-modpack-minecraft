@@ -221,11 +221,6 @@ hash = "2ffeebe2e7f36a58011d7789db9d512a9241c1c14cf7bf59b65a136f185fa77c"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "d640751f77452b535fab50561d474f5f5a3b5fd11bbdab10f4e04e04ceb6db45"
-metafile = true
-
-[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "c2f373ed6b92700a698c601cd9728dbcbbb59ab59b2f60c5e4fbc605c8d38d1b"
 metafile = true
