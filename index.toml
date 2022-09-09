@@ -758,11 +758,6 @@ hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
 metafile = true
 
 [[files]]
-file = "mods/origins.pw.toml"
-hash = "8639aa86ac96b56ec96b5eee3103f8de7462708387ff288a9b69149fdeaafab8"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
@@ -1010,6 +1005,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "2f0c572009dc2fdc56b89100aef9b1ae6e754708bc64e33f326bbd3a80162acb"
+metafile = true
+
+[[files]]
+file = "mods/trampledisabler-fabric.pw.toml"
+hash = "a10352703e4c7a7d9c9c219ae88cde31ee9b85a160a3e0da0a0a26f73d515e2b"
 metafile = true
 
 [[files]]
