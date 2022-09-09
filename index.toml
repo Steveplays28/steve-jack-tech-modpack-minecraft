@@ -73,6 +73,10 @@ file = "config/seamless_loading_screen.json"
 hash = "ee0393dc2d4e6c540a52671ddd2d0c6998fafedc1c81106046af735a849f1b0e"
 
 [[files]]
+file = "config/serverpause/serverpause.conf"
+hash = "2f8faabd48f90b27ef6f94f5cd9164978f260d47f85176c02a58deff523f15d2"
+
+[[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
 hash = "20cd9da6e3c7605a103e7f03ca30673d8999c85b41f11ee768e6c944bed8e745"
 
