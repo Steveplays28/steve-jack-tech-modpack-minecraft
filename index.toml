@@ -554,6 +554,11 @@ hash = "dde07870f6a6528ed7e53793770735d8c3379acc08f0591bbda3767816c3fd2f"
 metafile = true
 
 [[files]]
+file = "mods/hardened-crops.pw.toml"
+hash = "e3c09c4b70a8f8200afa3b91587213d78e7a697681a3481ac49f71b6da2cc0c9"
+metafile = true
+
+[[files]]
 file = "mods/headfix.pw.toml"
 hash = "56762a8b91c5dc1a1cd9af30d32c8d30dde4e2b2d68741be64d2180f249f0875"
 metafile = true
