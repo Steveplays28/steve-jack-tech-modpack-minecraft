@@ -53,10 +53,6 @@ file = "config/notenoughanimations.json"
 hash = "66f5687242932288506d9918f6eb8870f7774cc89ad5d97489f14856ca92db19"
 
 [[files]]
-file = "config/origins_server.toml"
-hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
-
-[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
