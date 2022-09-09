@@ -1008,6 +1008,11 @@ hash = "2f0c572009dc2fdc56b89100aef9b1ae6e754708bc64e33f326bbd3a80162acb"
 metafile = true
 
 [[files]]
+file = "mods/trampledisabler-fabric.pw.toml"
+hash = "a10352703e4c7a7d9c9c219ae88cde31ee9b85a160a3e0da0a0a26f73d515e2b"
+metafile = true
+
+[[files]]
 file = "mods/trees-do-not-float.pw.toml"
 hash = "90be450c6b7b466789955677003dd600830d27edc19e00a76b7a4b6162275b76"
 metafile = true
