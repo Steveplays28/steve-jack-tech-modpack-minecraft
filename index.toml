@@ -973,6 +973,11 @@ hash = "18e4cf739fbc7386f0d5a81bb4d7836e596688051e20322a0172e7c4f05d7517"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "f432769b08aa82fe8f4f8543171434e4ff205bb7d7ec2c4dd7631b9ba7eb2955"
+metafile = true
+
+[[files]]
 file = "mods/timber-mod.pw.toml"
 hash = "e6657ae75748ba2d3e7750b205e32b8c1e2c930c6e68c6d82cbd14d66878e520"
 metafile = true
