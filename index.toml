@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep.pw.toml"
-hash = "bc5d834bdc8d15c67b3c7cbae6c19d96da41aaf0829890f6ad9bf12e5efc67be"
+hash = "b7f4ff25ad5bbe47c830cb4a61807fc7d799da0139968feba6d8a98685409030"
 metafile = true
 
 [[files]]
