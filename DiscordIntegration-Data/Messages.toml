@@ -191,11 +191,11 @@ bot = "This user is a bot"
   notWhitelistedCode = "§cYou are not whitelisted.\nAsk Steveplays#9659 on Discord for more information. In the Discord server, run the command '/link %code%'"
   # Message shown to players who are whitelisted using Discord but don't have the required role anymore
   # No effect if Discord whitelist is off
-  notWhitelistedRole = "§cYou are whitelisted, but you need a role to join.\nAsk Steveplays#9659 on Discord for more information."
-  # Sent when trying to link without an required role
+  notWhitelistedRole = "§cSomething went wrong while whitelisting (missing required Discord role).\nAsk Steveplays#9659 on Discord for more information."
+  # Sent when trying to link without a required role
   link_requiredRole = "You need to have a role to use this."
-  # Sent when trying to link as an non-member
-  link_notMember = "You are not member of the Discord server this bot is operating in.\nAsk Steveplays#9659 on Discord for more information."
+  # Sent when trying to link as a non-member
+  link_notMember = "You are not a member of the Discord server this bot is operating in.\nAsk Steveplays#9659 on Discord for an invite."
   # Sent to the user when he linked his Discord successfully
   # PLACEHOLDERS:
   # %name% - The linked Discord name

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "DiscordIntegration-Data/Messages.toml"
-hash = "fe44cc31d0119e0c5925852c0ade2f401faf710f5f4988982226eaddb5a2aa7d"
+hash = "1e692fa0f3a4e46d83d29f92df738fec692668ed8eee3b3bbd46387bb204d1f9"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -50,7 +50,7 @@ hash = "7b93fe75c3e76813ef6f7654aadc5c308f699af40dc164dd5e628e1393434b0b"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "7d99065a1f09b80106af4f43b3a4bdab0e1fe5fd5354d7e60eda68ce7d2b524e"
+hash = "f1f1fa39a422690baba16b1f286d68c0f6b5d6ca5d4775195fa88d321ce55e0a"
 
 [[files]]
 file = "config/modmenu.json"
