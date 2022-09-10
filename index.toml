@@ -33,6 +33,10 @@ file = "config/c2me.toml"
 hash = "b2b638039b318dfdd5339e1af8e14ddd34e5431b676f70bb5d69265d4564ee95"
 
 [[files]]
+file = "config/emojitype.json"
+hash = "a382ea5541e882d58d1400fbad28ee96c5868438f42109861d7ecda4b70a7b1c"
+
+[[files]]
 file = "config/immersive_weathering.json5"
 hash = "78feafc90e9cf88686dfb34ee0ec3bbe3e0ae47ebcf9ec06b17c1b5092ff91e2"
 
