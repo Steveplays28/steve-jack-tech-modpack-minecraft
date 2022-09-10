@@ -537,11 +537,6 @@ hash = "88621af32c04014ec3296102eeaa90128606ddeab3021e75569ee70a8165d6a2"
 metafile = true
 
 [[files]]
-file = "mods/fix-alt-gr.pw.toml"
-hash = "2e0fb22b7d321aef31987ea822c9a5ca8a253d189db7912ae96f07828009020a"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
 metafile = true
