@@ -1,5 +1,5 @@
 enableSodiumMenu = true
-useBlockStateCulling = true
+useBlockStateCulling = false
 useCustomItemFrameRenderer = true
 useItemFrameLOD = true
 itemFrameLODRange = 384
@@ -7,4 +7,4 @@ useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 12.0
 leavesCullingMode = "DEFAULT"
 leavesCullingDepth = 2
-powderSnowCulling = true
+powderSnowCulling = false

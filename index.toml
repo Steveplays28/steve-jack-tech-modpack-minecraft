@@ -58,7 +58,11 @@ hash = "1c00d21b7c00444c64d244581244b2121fb025412c539245c47eee3ed61efd14"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "b0f0c4c073a628a37febd3cb37cd693fae325fdfe9179c65329b4f48318130f7"
+hash = "9121489573c7f903b5745eb9bcd39ad188639edeb8afc4da83c1cb7bbf61cdf9"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "a3ce077ecfa7bf37a8245d1d1db52453f78c37275a4055817ee98a49a3def046"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -110,7 +114,7 @@ hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "4c1f22d4e310acfc8ea15dffa6edaaa293e767a184877f4ab6f8cbd8a80721c7"
+hash = "cf5eabe41650dc35b6d421397759be8451a506cbd1bc6166adaae7c2c5221f1f"
 
 [[files]]
 file = "config/wake-up-time.json"
@@ -989,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-sooner.pw.toml"
-hash = "9207305c34f4599ded83fb10ac05b1b1c89c212c368c036a01718a993d593447"
+hash = "1fc1657814493868f3f097370c89c582937202e1a257d94712229ba4f573320e"
 metafile = true
 
 [[files]]
