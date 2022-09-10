@@ -1,0 +1,13 @@
+name = "Player Events API"
+filename = "player-events-api-2.3.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.3.2/player-events-api-2.3.2.jar"
+hash-format = "sha1"
+hash = "88330e490a3e8a2bc3baf98001539e8189ea2a95"
+
+[update]
+[update.modrinth]
+mod-id = "NLx6lJPJ"
+version = "ZL3N99Uo"

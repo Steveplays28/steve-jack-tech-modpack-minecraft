@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "DiscordIntegration-Data/Messages.toml"
+hash = "2b78ffd605273b34edd4f08bdf662cc34bec8ad5bae7310c2d0c48fb75b4f692"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "92a4f38c23f671a2207babc60450f9ff54acbf07a5d1876ef5aad756e1b29583"
 
@@ -75,6 +79,10 @@ hash = "2f8faabd48f90b27ef6f94f5cd9164978f260d47f85176c02a58deff523f15d2"
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
 hash = "20cd9da6e3c7605a103e7f03ca30673d8999c85b41f11ee768e6c944bed8e745"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "9d5808e425935b9d405cc16f036351bd924b874ddbf0159564852231c7cf7506"
 
 [[files]]
 file = "config/toomanybinds.json5"
@@ -346,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "b60fc5c154d6ca0e07406638d53bfbaa751e3ef517ff553fcec8543847844728"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "b4e6b50fbfa56cd54d1665d725a74cab084cb2d0c2f1d3113479e090dc719847"
 metafile = true
 
 [[files]]
@@ -779,6 +792,11 @@ hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
+file = "mods/player-events.pw.toml"
+hash = "e736582190af7bc6c4de67479a819b73052f55b28526b0e262a8ccf1ee042976"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7abb7ec5fd49525a7a3582231085cb429799cf840296a26a2666614bf0968bd2"
 metafile = true
@@ -970,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/textile_backup.pw.toml"
-hash = "f432769b08aa82fe8f4f8543171434e4ff205bb7d7ec2c4dd7631b9ba7eb2955"
+hash = "c996530e6cc3f951abbeebbfac89db7d79f7a20a82b01d944e29c6a1d0228e0b"
 metafile = true
 
 [[files]]
