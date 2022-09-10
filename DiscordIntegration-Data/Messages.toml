@@ -188,10 +188,10 @@ bot = "This user is a bot"
   linkNumberNAN = "This is not a number."
   # Message shown to players who are not whitelisted using Discord
   # No effect if Discord whitelist is off
-  notWhitelistedCode = "§cYou are not whitelisted.\nAsk Steveplays#9659 on Discord for more information."
+  notWhitelistedCode = "§cYou are not whitelisted.\nAsk Steveplays#9659 on Discord for more information. Whitelist code: %code%"
   # Message shown to players who are whitelisted using Discord but don't have the required role anymore
   # No effect if Discord whitelist is off
-  notWhitelistedRole = "§cYou are whitelisted, but you need a role to join.\nAsk Steveplays#9659 on Discord for more information. "
+  notWhitelistedRole = "§cYou are whitelisted, but you need a role to join.\nAsk Steveplays#9659 on Discord for more information."
   # Sent when trying to link without an required role
   link_requiredRole = "You need to have a role to use this."
   # Sent when trying to link as an non-member

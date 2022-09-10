@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "DiscordIntegration-Data/Messages.toml"
-hash = "2b78ffd605273b34edd4f08bdf662cc34bec8ad5bae7310c2d0c48fb75b4f692"
+hash = "bdc62ace1ceb821e0e6c2022d2717919748c4f10325b163709f5ecdf9ff0d4b8"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -849,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/reload-audio-driver-fabric.pw.toml"
 hash = "c33ed65a79e334e9b1478b023e1d68af4ae60ced10e005b697ca42740a40beb7"
+metafile = true
+
+[[files]]
+file = "mods/reload-server-properties.pw.toml"
+hash = "f5afd2c53d5e467e735601125438ffa6a89b85ebaeb063aae23d957e79511cd0"
 metafile = true
 
 [[files]]

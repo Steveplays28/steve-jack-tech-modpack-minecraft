@@ -1,0 +1,13 @@
+name = "Reload server.properties"
+filename = "ServerPropertiesReload-Fabric-1.18.2+v1.0.3.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "6fb94dc975755846a6f3273043c02c8096f8d001"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3797956
+project-id = 537265
