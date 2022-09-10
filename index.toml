@@ -65,6 +65,10 @@ file = "config/notenoughanimations.json"
 hash = "66f5687242932288506d9918f6eb8870f7774cc89ad5d97489f14856ca92db19"
 
 [[files]]
+file = "config/ordinarytweaks.json"
+hash = "d27b30a525c240be50ebb6e9c6e603c41c0c8e88bce510426a13b18124947451"
+
+[[files]]
 file = "config/presencefootsteps/updater.json"
 hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
@@ -75,6 +79,10 @@ hash = "5e735d8a86161842f56781501d6efb3f3b42eab3205629838c0fa08b54092d1d"
 [[files]]
 file = "config/realisticsleep.json"
 hash = "be9d7a45f63800e3bb5b1a0b6ccfd2f2af473c1f856993d62af3970bd4db2a15"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "0701c2752ce1f54bc63bf21bf75c69683641ca9f823d60577571661958c3923b"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
@@ -119,6 +127,10 @@ hash = "d0e13725306f105aa861710b1fbe7e5a9d4f6faeb725eb764c23eff005acf116"
 [[files]]
 file = "config/waystones/config.json"
 hash = "c12d5ce78c74f0f9f153030e8b7af16342fdc4a791bbb59d4c0e9003efbb91cd"
+
+[[files]]
+file = "config/wmch.json"
+hash = "50e29785db3c2918c33bbb51c5bdc4730592be36aaa7cdc1b039cbaf8829b413"
 
 [[files]]
 file = "config/yigd.toml"
@@ -263,11 +275,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "0c9551aca194ec1c182e649f38b928405b0a6441f8cc0bffe63fd448c057f7d8"
-metafile = true
-
-[[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "f1558f408e99c6c0738c55957b40139a831f31f0df4a0ee251644be857e8875a"
 metafile = true
 
 [[files]]
