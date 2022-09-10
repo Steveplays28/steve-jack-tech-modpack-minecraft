@@ -49,6 +49,10 @@ file = "config/inventory_tabs.json"
 hash = "7b93fe75c3e76813ef6f7654aadc5c308f699af40dc164dd5e628e1393434b0b"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "7d99065a1f09b80106af4f43b3a4bdab0e1fe5fd5354d7e60eda68ce7d2b524e"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "1c00d21b7c00444c64d244581244b2121fb025412c539245c47eee3ed61efd14"
 
