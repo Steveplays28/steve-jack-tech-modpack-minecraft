@@ -117,6 +117,62 @@ file = "config/yigd.toml"
 hash = "75cf00c0b0c9207c5a0cdffc5ab07787b384eccc55bd029f1353ff4ee1af5205"
 
 [[files]]
+file = "journeymap/config/5.8/addons/addon.waystones.config"
+hash = "abe83ea24e396a8fe9f930fd19c2ad87de64899bba926c5ca1cb513dad26aa19"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.core.config"
+hash = "b089f8626016623d13dc2245fdd33219c524bb60fff7642f32cbda41f8799481"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.fullmap.config"
+hash = "5c75e3a52378859c47e466fa5f5ee6d508fef130cb2263d4a401554d10170b6e"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.minimap.config"
+hash = "554a82e7671776bd6fe0cc8980d5fa9666d6d94862eda0eb1a1e3dca8fcd907c"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.minimap2.config"
+hash = "b558949feba8f7ca555db302717a1b27ea2f42361413e11c35693d18c77e56de"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.topo.config"
+hash = "146220bf196fc9c4a3ea8050b98a72733f012fa279fe4a59230d194ff549e034"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.waypoint.config"
+hash = "152f28bb4ca484e62e5b3dcb9c80547c5c86c94b20e359802102f862b77ba150"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.webmap.config"
+hash = "0405434c2c32808332d285f0f8049ea86cf205808ac4a4937ba06072d0019c61"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.ae2~spatial_storage.config"
+hash = "41634797c88c0ac7308364ae2ebe45e8cd17b1cab1776594a8ab4e1e484a25d1"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.default.config"
+hash = "1d0350321592d978baec24507fd8d56e3fe212ed9d4c7a3dd9c04725679085f5"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.global.config"
+hash = "3ac241326e9e08f7792243c7e1e86e37785cd8a7ac41e6e02aec10241c6af0f4"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.minecraft~overworld.config"
+hash = "04be68c9d696aa799acd27bf30b6cbbdf26d4a27d4456c16b5c098b6cbb31dc7"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.minecraft~the_end.config"
+hash = "ff710d8501f0f3de4a3baacb769082550f7a943c153121022e8ca3a9e2de5548"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.minecraft~the_nether.config"
+hash = "366e2cd7a8f78fc95b364ec65fe6390aa99169e4d2bb0e383ca733435d22fe49"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1b26113f98cae500b845a5be89d531c707ce2c56d1b260ed8e8ad1baa080f403"
 metafile = true
