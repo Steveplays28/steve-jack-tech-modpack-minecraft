@@ -146,11 +146,11 @@ hash = "d79caf14122979110598fff61cf5276b5c529ab8f7dc4fa19f19aa24daa56914"
 
 [[files]]
 file = "journeymap/config/5.8/journeymap.fullmap.config"
-hash = "5c75e3a52378859c47e466fa5f5ee6d508fef130cb2263d4a401554d10170b6e"
+hash = "84b20454f6f54d79cb96ae93ef91ecc53dc9796304ce6c42196236da0e86ecbf"
 
 [[files]]
 file = "journeymap/config/5.8/journeymap.minimap.config"
-hash = "554a82e7671776bd6fe0cc8980d5fa9666d6d94862eda0eb1a1e3dca8fcd907c"
+hash = "fceb9da9904f45055001da9f526064bba714d74ea9c4c3d580b7acef45d70b03"
 
 [[files]]
 file = "journeymap/config/5.8/journeymap.minimap2.config"
