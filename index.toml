@@ -464,6 +464,11 @@ hash = "65629e215ca8bd277eebbd925a927ad6001d347edb4839c32674c7bb5bb534c1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-nmtq.pw.toml"
+hash = "4fb74df78a152a80266d0a192daeaeb3859d1a80a5229dad67bdd04481d886f3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "33f3369dd4d55040c994446eb5090532bfed2a4861bab50de193befd5430ce9e"
 metafile = true
