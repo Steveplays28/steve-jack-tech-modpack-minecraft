@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "DiscordIntegration-Data/Messages.toml"
-hash = "bdc62ace1ceb821e0e6c2022d2717919748c4f10325b163709f5ecdf9ff0d4b8"
+hash = "fe44cc31d0119e0c5925852c0ade2f401faf710f5f4988982226eaddb5a2aa7d"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -130,7 +130,7 @@ hash = "c12d5ce78c74f0f9f153030e8b7af16342fdc4a791bbb59d4c0e9003efbb91cd"
 
 [[files]]
 file = "config/wmch.json"
-hash = "50e29785db3c2918c33bbb51c5bdc4730592be36aaa7cdc1b039cbaf8829b413"
+hash = "4bbffdc9d00fa70302126909e5e413fa9f9d2fa66c4c976013217227fb9b9420"
 
 [[files]]
 file = "config/yigd.toml"

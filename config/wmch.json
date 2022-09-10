@@ -12,6 +12,6 @@
   "boundary": true,
   "boundaryStr": "\u0026b[\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d]",
   "boundaryColor": 43690,
-  "nameStr": "\u003c$\u003e",
+  "nameStr": "<$>",
   "maxMsgs": 1024
 }
