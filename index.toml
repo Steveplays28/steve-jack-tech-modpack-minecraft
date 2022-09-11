@@ -114,7 +114,7 @@ hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "cf5eabe41650dc35b6d421397759be8451a506cbd1bc6166adaae7c2c5221f1f"
+hash = "bad2e238e672abdd28fe6cc110bc8259d81ce349de58f8d218fddf4aa8e35163"
 
 [[files]]
 file = "config/wake-up-time.json"
