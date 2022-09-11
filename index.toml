@@ -41,6 +41,10 @@ file = "config/immersive_weathering.json5"
 hash = "78feafc90e9cf88686dfb34ee0ec3bbe3e0ae47ebcf9ec06b17c1b5092ff91e2"
 
 [[files]]
+file = "config/inmis.json"
+hash = "2771b5874ed51dfe953940d2f1ec0d83020265fb1ba79d33c622ff10c01fa31c"
+
+[[files]]
 file = "config/interactic.json5"
 hash = "269aa9a11cc2af687b2031d7b013367370c098e47799631d8600187e75f2101b"
 
@@ -115,6 +119,18 @@ hash = "b09ab131a24d844351edac7d3cd8f4f0ecc36929b5b7e434a634f62aefb85822"
 [[files]]
 file = "config/vmp.properties"
 hash = "bad2e238e672abdd28fe6cc110bc8259d81ce349de58f8d218fddf4aa8e35163"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "10630b6fa451bed2b7c530f297b3e60d5333f790fd695ba882595ea926d73a64"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "1bafd85c9972ef2d7e7a68ceb60609f6cf9accb2170681a34f9773cb18469b56"
 
 [[files]]
 file = "config/wake-up-time.json"
