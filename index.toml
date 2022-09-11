@@ -78,7 +78,7 @@ hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "5e735d8a86161842f56781501d6efb3f3b42eab3205629838c0fa08b54092d1d"
+hash = "37ee2fe214ceea54c5999e61f40e66be3d705e157653232f5b6a8aa874fed794"
 
 [[files]]
 file = "config/realisticsleep.json"
@@ -792,6 +792,11 @@ hash = "787673fa16e88c32e4b9ada118b7d01ee67f9ea4b8bd2c582cd55d9919b601a4"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "57184008d5be04ccb9fc654447de2e187fddbb6d4ce6ae903c8369ca4b87f806"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "fd4556fce21de5c78b5c9b155e3f4c8e5ce0a44ee4ea252a1b0284189f27b10f"
 metafile = true
@@ -934,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "ea6853435e218bd8ad600579ecdb93075d8775ea083f60defd26bb5c4d1a9266"
+metafile = true
+
+[[files]]
+file = "mods/revamped_phantoms.pw.toml"
+hash = "93608dee4f0c0a433a71dccb2d12dbd9b636c153075078e0e42f3c722917b0da"
 metafile = true
 
 [[files]]

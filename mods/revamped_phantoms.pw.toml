@@ -1,0 +1,13 @@
+name = "Revamped Phantoms"
+filename = "revamped_phantoms-fabric-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJOG99cQ/versions/0.2.3-fabric/revamped_phantoms-fabric-0.2.3.jar"
+hash-format = "sha1"
+hash = "aa976f139314f129e76266896f9f45eda6c03c78"
+
+[update]
+[update.modrinth]
+mod-id = "YJOG99cQ"
+version = "4hIMa6NC"
