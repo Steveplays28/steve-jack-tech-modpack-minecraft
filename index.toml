@@ -512,11 +512,6 @@ hash = "41383163bd4bc98324a18d2b582c2957e8bb5eb49ee316934f8a26d0258c3bc2"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-searchability.pw.toml"
-hash = "8da1d4fb5386ff9244638a55d06d7e44408c003092aecf70967f622298724ccc"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -908,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticsleep.pw.toml"
-hash = "5fb564103bc38587b7d7d40b95588d1835808cf9734fb6da35dbae8986bfd202"
+hash = "d788fa0d96ec9198c8344beaee72a45d2a5fcdb2b11ba3ec4cbf6dec3308be63"
 metafile = true
 
 [[files]]
