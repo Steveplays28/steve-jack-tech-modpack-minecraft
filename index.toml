@@ -223,11 +223,6 @@ hash = "eedab1a08c24bfc09aa8663703c2eed8d9370377b2ebe0acc589462d954348a4"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
 metafile = true
@@ -855,11 +850,6 @@ metafile = true
 [[files]]
 file = "mods/ordinarytweaks.pw.toml"
 hash = "4a1aea0a5b75068765e11eea64d917c46656d5f50251ab24ba485016e57dab32"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
 
 [[files]]
