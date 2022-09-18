@@ -278,6 +278,11 @@ hash = "025e245cb5b2aa2339e11c483e4c502d7a12ddcb16e68394c7777ee4aad7cfeb"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "e73406fe1252ab486b90665439db7de2ec5a2bcebc1c23d48091ea7fb3e35c68"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3ab49530127532d9682e00d7397c4bb68918be300e599f91182afc514a66adcb"
 metafile = true
@@ -430,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "c2f373ed6b92700a698c601cd9728dbcbbb59ab59b2f60c5e4fbc605c8d38d1b"
+metafile = true
+
+[[files]]
+file = "mods/dark-graph.pw.toml"
+hash = "876736a028b08f4ff202b4e69ebd720f6eb30cfde86d3ddc13bfab60affcec8e"
 metafile = true
 
 [[files]]
@@ -708,6 +718,11 @@ hash = "2655df7be0a807ca97e65b875f4ce42b5fcebcd5091fb8281fd47846591f9aa7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "277253078831fc78a710a827b49a325edfdd3e699b2f50e0091ff1ecba231933"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "12cbc637054dc58ac7e038b54c8b15862ac21abf28f1fd1e6cdcfbec6a50bd6f"
 metafile = true
@@ -983,6 +998,11 @@ hash = "f8b457a2fff9cd235fa2b09e3d2cbc1a5568d6c1a5e581ff29dedcf96947ef22"
 metafile = true
 
 [[files]]
+file = "mods/servertick.pw.toml"
+hash = "7a38684ee548a4cd27e4419f5632dd3ba0f4f7f250a0070e2abfc1e5c8907340"
+metafile = true
+
+[[files]]
 file = "mods/shadowedactionbar.pw.toml"
 hash = "c693274809ac9f6268538f49d4fa66bcbc84570d8921e8bd6a596b89d9b168f8"
 metafile = true
@@ -1045,11 +1065,6 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
-metafile = true
-
-[[files]]
-file = "mods/tabtps.pw.toml"
-hash = "d12ed8c282d707faa2fb6ade3b80b0e7bd2bdc431d666fd97e6adaa8f6b2f755"
 metafile = true
 
 [[files]]
@@ -1144,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "59b19f7a1b4f27e81b2b3c219fb84b01583348403e3196fed890be85182b9437"
+hash = "24c0cc93789e5168354d37f499b9a85d888fa227afbb8824944aa3b0a4d4cd9c"
 metafile = true
 
 [[files]]
