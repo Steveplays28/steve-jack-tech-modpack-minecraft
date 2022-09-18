@@ -5,6 +5,10 @@ file = "DiscordIntegration-Data/Messages.toml"
 hash = "1e692fa0f3a4e46d83d29f92df738fec692668ed8eee3b3bbd46387bb204d1f9"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "92a4f38c23f671a2207babc60450f9ff54acbf07a5d1876ef5aad756e1b29583"
 
